@@ -18,11 +18,11 @@ This Markdown file provides an overview of the Shopee web scraping project. It c
 
 ![import csv into Google Sheets for Data Analytics](./img/image.png)
 
-### Turn the data table into a Pivot Table
+### Turn the data table into a Pivot Table for categorizing each title
 
 ![turn the data table into a Pivot Table](./img/image-1.png)
 
-### Generate some charts from the Pivot Table
+### Generate some charts from the Pivot Table for visualizing the data
 
 The pie chart illustrates that the discounted price from Shopee orders can cover 3.8 percent of the product price, effectively reducing the shipping cost.
 This highlights the significance of discounts for Shopee buyers as they can help minimize shipping expenses.
