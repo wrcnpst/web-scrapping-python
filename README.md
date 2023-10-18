@@ -6,7 +6,7 @@ This Markdown file provides an overview of the Shopee web scraping project. It c
 
 [Link to Scrape Purchased Data from Shopee.ipynb](Scrape%20Purchased%20Data%20from%20Shopee.ipynb)
 
-## Scrape Purchased Data from Shopee
+## Scraped Purchased Data CSV file from Shopee
 
 [Link to Shopee_Purchased.csv](./Shopee_Purchased.csv)
 
